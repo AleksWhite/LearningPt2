@@ -1,4 +1,4 @@
-package Volatile;
+package Multithreading.Volatile;
 
 import java.util.Scanner;
 
