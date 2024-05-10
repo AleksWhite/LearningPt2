@@ -6,8 +6,6 @@ import java.io.ObjectOutputStream;
 
 public class WriteObject {
     public static void main(String[] args) {
-        Person person1 = new Person(1, "Bob");
-        Person person2 = new Person(2, "Mike");
         Person[] people = {
                 new Person(1, "Bob"),
                 new Person(2, "Mike"),
